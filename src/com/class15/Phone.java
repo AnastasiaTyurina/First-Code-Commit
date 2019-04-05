@@ -48,7 +48,7 @@ public class Phone {
 	}
 	private void call() {
 		// TODO Auto-generated method stub
-		System.out.println("You can make a phone call on "+class);
+		System.out.println("You can make a phone call on ");
 	}
 	private void internet() {
 		// TODO Auto-generated method stub
