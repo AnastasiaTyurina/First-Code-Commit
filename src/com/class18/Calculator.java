@@ -31,7 +31,6 @@ public class Calculator {
 		} else {
 			max=c;
 		}
-	
 		return max;	
 	}
 
